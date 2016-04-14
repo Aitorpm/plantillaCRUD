@@ -1,0 +1,19 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/Aitorpm/plantillaCRUD",
+  "authors": [
+    "Aitor Piñeyro <itor95@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-route": "^1.5.3",
+    "angular": "^1.5.4"
+  },
+  "resolutions": {
+    "angular": "1.5.3"
+  }
+}
