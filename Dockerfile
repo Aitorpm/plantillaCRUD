@@ -1,5 +1,5 @@
 # Tells the Docker which base image to start.
-FROM node
+FROM node:latest
 
 # Adds files from the host file system into the Docker container.
 ADD . /app
