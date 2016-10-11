@@ -8,7 +8,7 @@ var mongoose=require('mongoose');
 
 
 require('mongoose-middleware').initialize(mongoose);
-mongoose.connect('mongodb://localhost/xino', function(err, res) {
+mongoose.connect('172.17.0.2:27017//localhost/xino', function(err, res) {
   if(err) throw err;
   console.log('Conectados con éxito a la Base de Datos');
 });
