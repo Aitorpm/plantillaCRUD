@@ -6,7 +6,10 @@
   "dependencies": {
     "body-parser": "^1.10.2",
     "express": "^4.11.1",
-    "mongojs": "^0.18.1"
+    "method-override": "^2.3.6",
+    "mongojs": "^0.18.1",
+    "mongoose": "^4.6.3",
+    "mongoose-middleware": "^0.2.19"
   },
   "devDependencies": {},
   "scripts": {
